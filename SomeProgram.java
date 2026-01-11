@@ -6,8 +6,11 @@ public class SomeProgram {
     public void manageTheSatellite() {
     // TODO implement
 }
-    
-public void manageTheRockets() {
+
+public void manageTheRocket() {
     // TODO implement
+}
+    public void manageUFO() {
+    System.out.println("Watch out for extraterrestial forces!");
 }
 }
